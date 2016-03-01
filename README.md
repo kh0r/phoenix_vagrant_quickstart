@@ -10,4 +10,4 @@ mix phoenix.new . --app <<YOUR PHOENIX APP NAME>>
 sudo -u postgres createdb <<YOUR PHOENIX APP NAME underscored>>_dev
 ```
 
-Further Instructions: [http://www.phoenixframework.org/docs/up-and-running]
+Further Instructions: http://www.phoenixframework.org/docs/up-and-running
